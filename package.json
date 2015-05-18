@@ -1,0 +1,20 @@
+{
+  "name": "hubot-soundcloud",
+  "version": "0.0.1",
+  "description": "A hubot script that uses the Soundcloud API to search for a track name and returns the (first) most relevant result",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ccrabb/hubot-soundcloud.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "soundcloud"
+  ],
+  "author": "Cory Crabb <ccrabb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccrabb/hubot-soundcloud/issues"
+  },
+  "homepage": "https://github.com/ccrabb/hubot-soundcloud"
+}
